@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=QuickSort()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ QuickSort\r\n
+comment1.params=a
+comment1.target=void\ print_array(int[])
+comment2.params=data\ idLeftMost\ idRightMost
+comment2.target=int\ partition(int[],\ int,\ int)
+comment2.text=\r\n\ This\ method\ implements\ partition\ algorithm\ for\ Quick\ sort\r\n\ Input\:\ An\ array\ A\ from\ idLeftmost\ to\ idRightmost,\ pivot\ is\ a[idLeftmost]\r\n\ Output\:\ j\ is\ the\ final\ position\ of\ pivot\ \r\n\ \ \ \ \ \ \ \ \ Array\ A\ is\ divided\ into\ two\ parts\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ 1)\ x[i]\ <\=\ pivot\ for\ idLeftmost\ <\=\ i\ <\ j\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ 2)\ x[i]\ >\=\ pivot\ for\ j<i<\=\ idRightmost\r\n\ \ \ \ \ \ \ \ \ \ \ \r\n\ \r\n\ @author\ (nxthang)\ \r\n\ @version\ (1.0)\r\n
+comment3.params=data\ idLeftmost\ idRightmost
+comment3.target=void\ Quick_Sort(int[],\ int,\ int)
+comment3.text=\r\n\ This\ method\ implements\ Quick\ sort\ algorithm\r\n\ Input\:\ An\ unsorted\ array\ A\ from\ idLeftmost\ to\ idRightmost\r\n\ Output\:\ A\ sorted\ array\r\n\ \r\n\ @author\ (nxthang)\ \r\n\ @version\ (1.0)\r\n
+comment4.params=
+comment4.target=void\ main()
+numComments=5

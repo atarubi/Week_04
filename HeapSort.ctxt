@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HeapSort()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HeapSort\r\n
+comment1.params=a
+comment1.target=void\ print_array(int[])
+comment2.params=i
+comment2.target=int\ LeftChild(int)
+comment3.params=i
+comment3.target=int\ RightChild(int)
+comment4.params=a\ n\ i
+comment4.target=void\ TrickleDown(int[],\ int,\ int)
+comment4.text=\r\n\ This\ method\ implements\ the\ TrickleDown\ algorithm.\r\n\ \r\n\ Input\:\ Binary\ tree\ A\ of\ the\ size\ n\ starting\ from\ 0,\ \r\n\ \ \ \ \ \ \ \ i\ is\ the\ node\ to\ be\ trickle\ down.\r\n\ Output\:\ Tree\ A\ becomes\ max\ heap.\r\n\ \r\n\ @author\ (nxthang)\ \r\n\ @version\ (1.0)\r\n
+comment5.params=a\ n
+comment5.target=void\ BuildHeap(int[],\ int)
+comment5.text=\r\n\ This\ method\ implements\ the\ BuildHeap\ algorithm.\r\n\ \r\n\ Input\:\ \ An\ array\ A\ of\ the\ size\ n,\ starting\ from\ 0.\r\n\ Output\:\ A\ becomes\ max\ heap.\r\n\ \r\n\ @author\ (nxthang)\ \r\n\ @version\ (1.0)\r\n
+comment6.params=a
+comment6.target=void\ Heap_Sort(int[])
+comment6.text=\r\n\ This\ method\ implements\ the\ Heap\ sort\ algorithm.\r\n\ \r\n\ Input\:\ \ An\ array\ A.\r\n\ Output\:\ A\ is\ sorted.\r\n\ \r\n\ @author\ (nxthang)\ \r\n\ @version\ (1.0)\r\n
+comment7.params=
+comment7.target=void\ main()
+numComments=8
